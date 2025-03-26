@@ -2,4 +2,4 @@
 
 I still need to pursue my undergraduate degree.
 
-:sob: :sob: :sob:
+/(ㄒoㄒ)/~~

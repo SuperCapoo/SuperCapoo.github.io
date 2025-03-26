@@ -1,4 +1,4 @@
-[![SuperCapoo](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/SuperCapoo)
+[![SuperCapoo](https://img.shields.io/badge/SuperCapoo-github-blue?logo=github)](https://github.com/SuperCapoo)
 
 I'm a student majoring in Artificial Intelligence and I love Capoo!
 
